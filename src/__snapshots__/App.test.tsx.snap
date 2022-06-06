@@ -3,7 +3,7 @@
 exports[`Контекст ThemeProvider спускает тему через контекст, useTheme получает тему из контекста 1`] = `
 <div>
   <div>
-    dark
+    light
   </div>
 </div>
 `;
